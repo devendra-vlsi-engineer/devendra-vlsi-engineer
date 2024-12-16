@@ -22,13 +22,12 @@
 
 ###
 
-<p align="left"> I'm Devendra from Bengaluru<br><br>- 🔭 I’m undergoing Functional verification training<br>- 📚 I'm currently learning System Verilog<br>- ⚡ In my free time I do re-code myself</p>
+<p align="left"> I'm Devendra from Bengaluru, Karnataka<br><br>- 🔭 I’m undergoing Functional verification training<br>- 📚 I'm currently learning System Verilog<br>- ⚡ In my free time I do re-code myself</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools </h3>
-<h5 align="left"> - Verilog </h2>
-<h5 align="left"> - System Verilog </h2>
+<h3 align="left"> 💪 Languages and Tools </h3>
+<p align="left"> - 💻 Verilog<br> - 💻 System Verilog<br> - 🛠 ModelSim, QuestaSim<br> - 🛠 Xilinx ISE<br> - 🛠 GVim Text Editor</p>
 
 ###
 
