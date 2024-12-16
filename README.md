@@ -1,7 +1,7 @@
 <div align="center">
 <!--   <img height="150" src="https://www.linkedin.com/in/devendra-vlsi-engineer"/> -->
   <a href="https://www.linkedin.com/in/devendra-vlsi-engineer" target="_blank"> <!-- optional target attribute -->
-  <img src="https://tenor.com/view/linkedin-gif-23542009" alt="LinkedIn">
+  <img src="LinkedIn.png" alt="LinkedIn">
 </a>
 </div>
 
