@@ -1,5 +1,8 @@
 <div align="center">
   <img height="150" src="https://www.linkedin.com/in/devendra-vlsi-engineer"/>
+  <a href="https://www.linkedin.com/in/devendra-vlsi-engineer" target="_blank"> <!-- optional target attribute -->
+  <img src="image URL" alt="LinkedIn">
+</a>
 </div>
 
 ###
